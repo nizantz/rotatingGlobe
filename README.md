@@ -8,10 +8,18 @@ Switching to
 
 Note : If the default Bing map doesn't load, switch to a different imagery from teh menu.
 
-To Run:
-git clone 
+To run first clone the source:
+```haskell
+git clone https://github.com/nizantz/rotatingGlobe.git
+```
 
+Go to the root folder:
+```haskell
+cd ~/rotatingGlobe
+```
 Start server (on mac) :
+```haskell
 /usr/bin/python -m SimpleHTTPServer 5555
+```
 
 Access teh URL -> http://localhost:5555
