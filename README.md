@@ -1,3 +1,5 @@
+![earth](https://cloud.githubusercontent.com/assets/90957/24483216/64c390e4-14ab-11e7-934b-3148aa36a6f6.png)
+
 This uses CesiumJS 
 The globe rotates at 2 degrees per interval specified.
 
